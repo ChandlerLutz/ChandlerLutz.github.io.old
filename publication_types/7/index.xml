@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on Chandler Lutz</title>
+    <link>https://chandlerlutz.github.io/publication_types/7/index.xml</link>
+    <description>Recent content in 7 on Chandler Lutz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Chandler Lutz</copyright>
+    <atom:link href="/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A Crisis of Missed Opportunities? Foreclosure Costs and Mortgage Modification During the Great Recession</title>
+      <link>https://chandlerlutz.github.io/publication/california-foreclosure-prevention-laws/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chandlerlutz.github.io/publication/california-foreclosure-prevention-laws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mortgage default risk: New evidence from internet search queries</title>
+      <link>https://chandlerlutz.github.io/publication/mortgage-default-risk/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://chandlerlutz.github.io/publication/mortgage-default-risk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

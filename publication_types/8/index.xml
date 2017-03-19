@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 on Chandler Lutz</title>
+    <link>https://chandlerlutz.github.io/publication_types/8/index.xml</link>
+    <description>Recent content in 8 on Chandler Lutz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Chandler Lutz</copyright>
+    <atom:link href="/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Local Economic Conditions and Local Equity Preferences: Evidence from Mutual Funds during the US Housing Boom and Bust</title>
+      <link>https://chandlerlutz.github.io/publication/local-economic-conditions-local-equity-preferences/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chandlerlutz.github.io/publication/local-economic-conditions-local-equity-preferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Asymmetric Effects of Investor Sentiment</title>
+      <link>https://chandlerlutz.github.io/publication/asymmetric_effects_of_investor_sentiment/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://chandlerlutz.github.io/publication/asymmetric_effects_of_investor_sentiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematically important banks and increased capital requirements in the Dodd-Frank era</title>
+      <link>https://chandlerlutz.github.io/publication/systematically-important-banks-dodd-frank/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://chandlerlutz.github.io/publication/systematically-important-banks-dodd-frank/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

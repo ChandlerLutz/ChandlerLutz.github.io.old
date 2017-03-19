@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>9 on Chandler Lutz</title>
+    <link>https://chandlerlutz.github.io/publication_types/9/index.xml</link>
+    <description>Recent content in 9 on Chandler Lutz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Chandler Lutz</copyright>
+    <atom:link href="/publication_types/9/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Impact of Conventional and Unconventional Monetary Policy on Investor Sentiment</title>
+      <link>https://chandlerlutz.github.io/publication/monetary-policy-investor-sentiment/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://chandlerlutz.github.io/publication/monetary-policy-investor-sentiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The International Impact of US Unconventional Monetary Policy</title>
+      <link>https://chandlerlutz.github.io/publication/international-impact-of-us-unconventional-monetary-policy/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://chandlerlutz.github.io/publication/international-impact-of-us-unconventional-monetary-policy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
