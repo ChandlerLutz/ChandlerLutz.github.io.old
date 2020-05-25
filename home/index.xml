@@ -1,14 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Chandler Lutz</title>
-    <link>https://chandlerlutz.github.io/home/index.xml</link>
+    <link>https://ChandlerLutz.github.io/home/</link>
     <description>Recent content in Homes on Chandler Lutz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Chandler Lutz</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://ChandlerLutz.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://ChandlerLutz.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ChandlerLutz.github.io/home/about/</guid>
+      <description>Biography Chandler Lutz is a professor of economics at Copenhagen Business School. His research interests include housing economics, financial economics, macroeconomics and monetary policy.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://ChandlerLutz.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ChandlerLutz.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working Papers</title>
+      <link>https://ChandlerLutz.github.io/home/working_papers/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ChandlerLutz.github.io/home/working_papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://ChandlerLutz.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ChandlerLutz.github.io/home/teaching/</guid>
+      <description>Advanced Financial Econometrics (Time Series, PhD level), 2011 - Present. - Average Overall Evaluation: 4.45 / 5.00 Applied Econometrics (Cross-Section and Time Series, MBA level), 2011 - Present. - Average Overall Evaluation: 4.60 / 5.00  Teaching Awards:  Best Teacher Award, CBS, Applied Econ and Finance, 2013-2014. Best Teacher Award, CBS, Applied Econ and Finance, 2014-2015. Best Teacher Award, CBS, Applied Econ and Finance, 2015-2016. Best Teacher Award, CBS, Applied Econ and Finance, 2016-2017.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ChandlerLutz.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ChandlerLutz.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

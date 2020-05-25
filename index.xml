@@ -1,103 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chandler Lutz on Chandler Lutz</title>
-    <link>https://chandlerlutz.github.io/index.xml</link>
+    <link>https://ChandlerLutz.github.io/</link>
     <description>Recent content in Chandler Lutz on Chandler Lutz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Chandler Lutz</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Highly Disaggregated Land Unavailability</title>
-      <link>https://chandlerlutz.github.io/publication/land-unavailability/</link>
-      <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://chandlerlutz.github.io/publication/land-unavailability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Crisis of Missed Opportunities? Foreclosure Costs and Mortgage Modification During the Great Recession</title>
-      <link>https://chandlerlutz.github.io/publication/california-foreclosure-prevention-laws/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://chandlerlutz.github.io/publication/california-foreclosure-prevention-laws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Do Financial Constraints Cool a Housing Boom? Theory and Evidence from a Macroprudential Policy on Million Dollar Homes</title>
-      <link>https://chandlerlutz.github.io/publication/macroprudential-financial-housing-constraints/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://chandlerlutz.github.io/publication/macroprudential-financial-housing-constraints/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Local Labor Markets in Canada and the United States</title>
-      <link>https://chandlerlutz.github.io/publication/local-labor-markets-canada-us/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://chandlerlutz.github.io/publication/local-labor-markets-canada-us/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Local Economic Conditions and Local Equity Preferences: Evidence from Mutual Funds during the US Housing Boom and Bust</title>
-      <link>https://chandlerlutz.github.io/publication/local-economic-conditions-local-equity-preferences/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://chandlerlutz.github.io/publication/local-economic-conditions-local-equity-preferences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Impact of Unconventional Monetary Policy on Real Estate Markets</title>
-      <link>https://chandlerlutz.github.io/publication/unconventional-monetary-policy-real-estate/</link>
-      <pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://chandlerlutz.github.io/publication/unconventional-monetary-policy-real-estate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>https://chandlerlutz.github.io/talk/example-talk/</link>
+      <title>Posts</title>
+      <link>https://ChandlerLutz.github.io/post/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://chandlerlutz.github.io/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mortgage default risk: New evidence from internet search queries</title>
-      <link>https://chandlerlutz.github.io/publication/mortgage-default-risk/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://chandlerlutz.github.io/publication/mortgage-default-risk/</guid>
+      <guid>https://ChandlerLutz.github.io/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Asymmetric Effects of Investor Sentiment</title>
-      <link>https://chandlerlutz.github.io/publication/asymmetric_effects_of_investor_sentiment/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <title>Publications</title>
+      <link>https://ChandlerLutz.github.io/publication/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://chandlerlutz.github.io/publication/asymmetric_effects_of_investor_sentiment/</guid>
+      <guid>https://ChandlerLutz.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Unconventional Monetary and Uncertainty</title>
-      <link>https://chandlerlutz.github.io/publication/unconventional-monetary-policy-uncertainty/</link>
-      <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://ChandlerLutz.github.io/talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://chandlerlutz.github.io/publication/unconventional-monetary-policy-uncertainty/</guid>
+      <guid>https://ChandlerLutz.github.io/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://ChandlerLutz.github.io/project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ChandlerLutz.github.io/project/</guid>
       <description></description>
     </item>
     
